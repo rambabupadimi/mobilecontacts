@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+      android:icon="@drawable/ic_search_white_24dp"
+        android:title="logo"
+        app:showAsAction="always" />
+
+
+</menu>
